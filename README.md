@@ -68,7 +68,7 @@ streamlit run streamlit_app.py
 
 ## 🧭 Architecture Overview
 
-![AstraMind Architecture](assets/architecture.png)
+![AstraMind Architecture](System-Architecture.png)
 
 *Figure: High-level system architecture showing multi-agent orchestration, RAG retrieval, ML services, and frontend integration.*
 
