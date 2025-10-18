@@ -1,0 +1,4 @@
+[submodule "finchat"]
+    path = finchat
+    url = <some-url>
+
