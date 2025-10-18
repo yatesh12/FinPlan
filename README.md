@@ -25,7 +25,7 @@ Personal financial planning platform that combines multi-agent orchestration, Re
 ## Quick Start
 1. Clone repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/yatesh12/FinPlan.git
 cd <repo-folder>
 ```
 2. Backend setup
@@ -66,9 +66,15 @@ streamlit run streamlit_app.py
 
 ---
 
+## 🧭 Architecture Overview
+
+![AstraMind Architecture](assets/architecture.png)
+
+*Figure: High-level system architecture showing multi-agent orchestration, RAG retrieval, ML services, and frontend integration.*
+
+---
+
 ## Contributing and License
 - **Contributing**: Fork, create a feature branch, add tests, and open a PR with a clear description and changelog. Follow existing code patterns for agents, prompts, and schema validation.  
 - **Recommended License**: MIT or Apache 2.0. Add a LICENSE file to define project terms.
 
-
-If you want a one-line repo description for GitHub, a short architecture diagram for the README, or a polished LICENSE file (MIT or Apache 2.0), tell me which and I will provide it.
